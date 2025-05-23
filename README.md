@@ -1,5 +1,5 @@
 # Dotfiles
-Repo for managing all my configurations | work in progress WIP
+Repo for managing all my configurations | work in progress WIP - TODO: add sync all my config later
 
 # Introduction
 
